@@ -1,6 +1,16 @@
 # Deployment
 
-Publication and verification details will be recorded here after GitHub and Vercel confirm the new project.
+Published and verified on **23 October 2026**.
+
+- **GitHub:** https://github.com/PenielOkoli/gatherwell-phase-1
+- **Live Vercel URL:** https://gatherwell-phase-1.vercel.app
+- Vercel project: `gatherwell-phase-1` in `penielokolis-projects`.
+- Public repository, default branch `main`, connected to Vercel for deployments.
+- Vercel production status: **Ready**. The application was opened and exercised at the public URL without a login.
+- Verified application deployment: `dpl_DpUBbGRmTGarVt48xoAAu1tEwpg6` (application commit `6c3291a`; later documentation-only commits retain the same app).
+- Public mode: deterministic agenda builder and curated demo assistant. No paid provider key was configured or used.
+
+The existing GitHub login can create repositories and push application code, but it lacks workflow-write scope. The optional CI workflow is therefore included as `docs/ci-workflow.example.yml`, not activated under `.github/workflows`. Local checks and Vercel builds passed; GitHub Actions was not represented as having run.
 
 ## Reproduce a Vercel deployment
 

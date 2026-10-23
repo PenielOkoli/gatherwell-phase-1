@@ -4,7 +4,8 @@
 
 ## Submission links
 
-- Repository: deployment links are recorded in [docs/deployment.md](docs/deployment.md).
+- **[GitHub repository — submit this link](https://github.com/PenielOkoli/gatherwell-phase-1)**
+- **[Live Vercel application](https://gatherwell-phase-1.vercel.app)**
 - Architecture notes: [docs/architecture.md](docs/architecture.md)
 - Security checklist: [docs/security-checklist.md](docs/security-checklist.md)
 - AI SDK boundary explanation: [docs/ai-sdk-boundary.md](docs/ai-sdk-boundary.md)
@@ -72,3 +73,9 @@ docs/              Brief, architecture, security, deployment, evidence
 ```
 
 Original concept and implementation prepared on 23 October 2026. This repository is separate from the previous CoinPilot project.
+
+## Preview
+
+![Gatherwell workshop studio on desktop](docs/screenshots/desktop.png)
+
+[Mobile screenshot](docs/screenshots/mobile.png) · [Deployment and verification details](docs/deployment.md)
